@@ -82,12 +82,9 @@ ul {
  *
  */
  
-  .hamburger {
-  font-weight: 300;
-  font-size: 4em;
-  margin: 0.5em 0.25em;
-  display: inline-block;
-  color: white;
+.hamburger {
+  display: none;
+}
 
 .nav {
   width: 800px;
